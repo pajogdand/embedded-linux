@@ -1,0 +1,93 @@
+User Programming
+1 : Unix Concepts and Applications
+https://www.flipkart.com/unix-concepts-applications/p/itmczynvf32hxm3f
+
+2: A practical Guide to Linux by Sobel
+https://www.amazon.in/Practical-Guide-Commands-Editors-Programming/dp/0131367366/ref=sr_1_1?crid=W3EU9B62UK1G&keywords=A+practical+Guide+to+Linux+by+Sobel&qid=1673371163&sprefix=a+practical+guide+to+linux+by+sobel%2Caps%2C481&sr=8-1
+
+3: Advanced Programming In The Unix Environment For Vtu  (Paperback, W. Richard Stevens)
+https://www.flipkart.com/used-like-new-advanced-programming-unix-environment-vtu/p/itma8dbd31c90eac?pid=RBKGF4A97Q4MRVHF&lid=LSTRBKGF4A97Q4MRVHFT9JBGB&marketplace=FLIPKART&q=W+richard+steven&store=bks&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=3ca4ef65-d39b-40ab-a0d1-00150151a1b1.RBKGF4A97Q4MRVHF.SEARCH&ppt=pp&ppn=pp&ssid=uhvenl3g8w0000001673369636946&qH=b22c26826e702aa4
+
+4: The UNIX Programming Environment Paperback – 1 January 2015
+by Kernighan & Pike (Author) 
+https://www.amazon.in/UNIX-Programming-Environment-Kernighan-Pike/dp/9332550255/ref=sr_1_1?crid=OHGQLUQ2PP3K&keywords=unix+programming+environment&qid=1673369857&sprefix=unix+programming+environment%2Caps%2C253&sr=8-1
+Free PDF: https://www.unisainformatica.it/upload/files/Sistemi%20Operativi/Appunti/Advanced%20Programming%20in%20the%20UNIX%20Environment.pdf
+
+5: Advanced Unix stephen prata Unix 
+https://www.amazon.in/Advanced-Unix-Programmers-Stephen-Prata/dp/8170291070/ref=sr_1_1?crid=2PQGRC37GZCQ0&keywords=stephen+prata+Unix&qid=1673370020&sprefix=stephen+prata+unix%2Caps%2C276&sr=8-1
+
+6: Unix Network Programming Part 1 and Part 2
+https://www.amazon.in/UNIX-Network-Programming-Second-Richard/dp/B071J671N6/ref=sr_1_1?crid=39HYK1BQN5EES&keywords=Unix+Network+Programming+W.+Richard+Stevens&qid=1673370143&sprefix=unix+network+programming+w.+richard+stevens+%2Caps%2C244&sr=8-1
+https://www.amazon.in/Unix-Network-Programming-Interprocess-Communications/dp/8177583700/ref=sr_1_2?crid=39HYK1BQN5EES&keywords=Unix+Network+Programming+W.+Richard+Stevens&qid=1673370143&sprefix=unix+network+programming+w.+richard+stevens+%2Caps%2C244&sr=8-2
+
+7: Unix System Programming using C++ by Chan
+https://www.amazon.in/Unix-System-Programming-Using-C/dp/8120314689/ref=sr_1_1?crid=23IYIAM6NDS5C&keywords=Unix+System+Programming+using+C%2B%2B+by+Chan&qid=1673370876&sprefix=unix+system+programming+using+c%2B%2B+by+chan%2Caps%2C332&sr=8-1
+
+8: Beining and Advanced Linux Programming
+
+9: Linux System Programming By Robert Love
+https://www.amazon.in/Linux-System-Programming-Love-Robert/dp/9351107728/ref=sr_1_2?crid=3N5AJPHMGX4UT&keywords=being+and+advanced+linux+programming+rocks&qid=1673371338&sprefix=being+and+avnaced+linux+progamming+rock%2Caps%2C267&sr=8-2
+
+10 : Linux Kernel development by Robert Love
+https://www.amazon.in/Linux-Kernel-Development-Developers-Library/dp/0672329468
+
+11 : Linux Programing Interface by Michael Kerrisk
+https://www.amazon.in/Linux-Programming-Interface-System-Handbook/dp/1593272200/ref=sr_1_1?crid=368BXSQUX4OBK&keywords=Linux+Programing+Interface&qid=1673371532&s=books&sprefix=linux+programming+interface%2Cstripbooks%2C314&sr=1-1
+
+
+12 : XWindows Programming Vol1-9
+
+13: XWindows System Programming
+
+14: X Windows System Programming Paperback – Import, 1 October 1994 Nabajyoti-Barkakati
+https://www.amazon.in/Windows-System-Programming-Nabajyoti-Barkakati/dp/0672305429
+
+15: OpenGL Programming for the X Window System Paperback – 5 August 1996
+by Mark J. Kilgard  (Author) -> Sinior Research Development at Nvidia 
+https://www.amazon.in/OpenGL-Programming-X-Window-System/dp/0201483599/ref=sr_1_3?crid=1KA86K39ER5OC&keywords=opengl+programming+for+windows&qid=1673373674&sprefix=opengl+programming+for+xwindows%2Caps%2C251&sr=8-3
+
+16: Learning QT Programming
+
+17: The Linux Kernel Module Programming Guide Paperback – Import, 5 January 2009
+by Peter Jay Salzman 
+https://www.amazon.in/Linux-Kernel-Module-Programming-Guide/dp/1441418865/ref=sr_1_1?crid=3VKWOX6UYXWZ8&keywords=linux+kernel+module+programming+peter+salzman&qid=1673375262&sprefix=linux+kernel+module+programming+peter+salzman%2Caps%2C257&sr=8-1
+
+18: https://www.amazon.in/Linux-Device-Drivers-Kernel-Hardware/dp/8173668493/ref=sr_1_4?crid=FN7EJ01MQ6JW&keywords=writing+linux+device+driver&qid=1673375316&sprefix=wrting+linux+device+driver%2Caps%2C274&sr=8-4 
+Linux Device Drivers: Where the Kernel Meets the Hardware
+by Jonathan Corbet, Alessandro Rubini, et al.
+
+SYSTEM DESING BOOK
+19: The Design of the UNIX Operating System by Maurice J. Bach.
+https://www.amazon.in/Design-UNIX-Operating-System-1/dp/9332549575/ref=sr_1_1?crid=GQR9PF4GMFPK&keywords=The+Design+of+the+UNIX+Operating+System&qid=1673375579&sprefix=the+design+of+the+unix+operating+system+%2Caps%2C395&sr=8-1
+
+20: UNIX INTERNALS: THE NEW FRONTIERS Paperback – 1 December 2008
+by Uresh Vahalia 
+https://www.amazon.in/gp/product/8177582496/ref=dbs_a_def_rwt_bibl_vppi_i1
+
+21:Lion's Commentary on UNIX with Source Code (Computer Classics Revisited)
+by John Lions 
+https://www.amazon.in/Commentary-Source-Computer-Classics-Revisited/dp/1573980137/ref=sr_1_1_sspa?keywords=lions+commentary+on+unix&qid=1673375709&sprefix=Lions+com%2Caps%2C261&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+
+22: Operating System Design and implimentation
+Operating Systems Design and Implementat: Design and Implementation
+by Tanenbaum/Woodhull
+https://www.amazon.in/Operating-Systems-Design-Implementat-Implementation/dp/9332550514/ref=sr_1_2?crid=3RESI4A9RJIY9&keywords=operating+system+design+and+implementation&qid=1673375908&sprefix=operating+system+design+and+implimentation%2Caps%2C471&sr=8-2
+
+23: SOLARIS INTERNALS
+by Jim Mauro and Richard McDougall
+https://www.amazon.in/Solaris-Internals-Open-Kernel-Architecture/dp/8131716201/ref=sr_1_2?crid=20KU9EDO6ZUH&keywords=Solaris+INTERNALS&qid=1673375971&sprefix=solaris+internals%2Caps%2C319&sr=8-2
+
+24 : The Design and Implementation of the FreeBSD Operating System
+by Marshall Kirk McKusick and George V. Neville-Neil
+https://www.amazon.in/Design-Implementation-FreeBSD-Operating-System/dp/0201702452/ref=sr_1_1?crid=3Q5LUVF8BWL2B&keywords=implementation+of+free+bsd&qid=1673376076&sprefix=implimentation+of+free+bs%2Caps%2C318&sr=8-1
+
+25: Linux Core kernel core commentary
+by Maxwell
+https://www.amazon.in/Linux-Core-Kernel-Commentary-Canadian/dp/1588801497/ref=sr_1_2?crid=1AUTBI3CJ13J&keywords=Linux+Core+kernel+core+commentary+by+Maxwell&qid=1673376178&sprefix=inux+core+kernel+core+commentary+by+maxwell%2Caps%2C358&sr=8-2
+
+26: Understading the Linux Kernel
+Understanding the Linux Kernel: From I/O Ports to Process Management, Third Edition
+by Daniel P. Bovet and Marco Cesati 
+https://www.amazon.in/Understanding-Linux-Kernel-Process-Management/dp/8184040830/ref=sr_1_2?crid=27L39D9RAOL25&keywords=understanding+the+linux+kernel&qid=1673376221&sprefix=understanding+the+linux+kernel%2Caps%2C212&sr=8-2
+
+
